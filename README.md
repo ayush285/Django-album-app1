@@ -1,1 +1,1 @@
-# Django-album-app1
+# Django songs app
